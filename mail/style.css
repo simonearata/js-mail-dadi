@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper{
+  width: 80%;
+  margin: auto;
+}
+
+.box{
+  background-color: lightgrey;
+  width: 50%;
+  border-radius: 10px;
+  margin: 30px auto;
+}
+
+.box h1{
+  text-align: center;
+}
+
+#inbox_wrong{
+  color: green;
+}
+
+#inbox_right{
+  color: red;
+}
